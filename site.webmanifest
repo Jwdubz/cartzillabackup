@@ -1,0 +1,24 @@
+{
+  "name": "Cartzilla Ride - Las Vegas Strip Tour",
+  "short_name": "Cartzilla",
+  "description": "Experience the Las Vegas Strip in the world's only street legal shopping cart. Book your unforgettable tour today!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#db0334",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["travel", "entertainment", "tourism"],
+  "lang": "en-US",
+  "orientation": "portrait-primary"
+}
